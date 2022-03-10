@@ -7,6 +7,9 @@
 ### Module: URL Receiver
 receives event URL from EventBrite Web Hook and pushes it to a Storage
 
+### Module: Event Gatherer
+given an organization eventbrite page saves to a Storage all pubblicly available events
+
 ### Module: Eventbrite Reader
 Eventbrite is public and free. Is the only event website which integrates with Facebook events.
 
