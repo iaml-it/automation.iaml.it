@@ -8,7 +8,7 @@ IAML Community automation tool for newsletter and website knowledge-base.
 
 ## Deploy  
 
-The current target are heroku containers, the app is currently composed of an eventbrite importer. 
+The current target are heroku containers, the app is currently composed of an eventbrite importer and a mongodb storage.
 
 
 
