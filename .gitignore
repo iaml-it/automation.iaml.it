@@ -229,5 +229,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-db_handler/db_config.yaml
+db_config.yaml
 .idea
+*.json

@@ -1,0 +1,4 @@
+pyyaml~=6.0
+pymongo~=4.0.2
+dnspython
+requests~=2.27.1
